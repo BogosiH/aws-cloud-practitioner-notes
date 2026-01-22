@@ -92,6 +92,8 @@ AWS designs its global infrastructure using **Regions**, **Availability Zones**,
 * Support data residency and compliance requirements
 * Enable customers to scale applications globally
 
+# Day 3 – IAM, Security Fundamentals, and Compute Overview
+
 ## Compute in the Cloud (EC2 Overview)
 
 - Amazon EC2 provides on-demand, scalable compute capacity.
