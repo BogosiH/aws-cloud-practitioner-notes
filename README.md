@@ -92,6 +92,15 @@ AWS designs its global infrastructure using **Regions**, **Availability Zones**,
 * Support data residency and compliance requirements
 * Enable customers to scale applications globally
 
+## Compute in the Cloud (EC2 Overview)
+
+- Amazon EC2 provides on-demand, scalable compute capacity.
+- Instance types are selected based on workload requirements.
+- EC2 pricing includes On-Demand, Reserved Instances, Savings Plans, and Spot Instances.
+- Auto Scaling automatically adjusts capacity based on demand.
+- Elastic Load Balancing distributes traffic to improve availability and fault tolerance.
+
+
 ## Progress Tracking
 
 Daily progress and key learnings will be updated as the study plan advances.
